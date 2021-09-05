@@ -47,6 +47,7 @@
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
+    "robotsSwitcher": "on"
     "sitemapSwitcher": true,
     "siteUrl": "https://matuchgames.com",
     "sitemapSwitcherAuto": "on",
