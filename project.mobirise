@@ -50,8 +50,6 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://matuchgames.com",
     "sitemapSwitcherAuto": "on",
-    "robotsSwitcher": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": false,
     "mbrsiteDomain": "m766bunv3i",
     "cookiesAlert": false,
