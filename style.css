@@ -200,8 +200,8 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/Dark_Wall_BG.png);
-/*	background-color: #4e4f4f; */
+/*	background-image: url(./img/Dark_Wall_BG.png); */
+	background-color: white;
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -215,7 +215,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-color: black;
-	opacity: 0.3;
+	opacity: 0.1;
 	z-index: -1;
 }
 #hero .hero {
@@ -332,7 +332,7 @@ p {
 }
 @keyframes text_reveal {
 	100% {
-		color: white;
+		color: black;
 	}
 }
 @keyframes text_reveal_name {
@@ -359,15 +359,15 @@ p {
 	}
 	#hero h2 {
 		font-size: 3rem;
-		color: white;
+		color: black;
 	}
 	#hero h3 {
 		font-size: 8rem;
-		color: white;
+		color: black;
 	}
 	#hero h4 {
 		font-size: 15rem;
-		color: white;
+		color: black;
 	}
 	/* End Hero */
 
