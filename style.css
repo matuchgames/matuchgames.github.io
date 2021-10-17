@@ -77,16 +77,19 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #e60707;
+    border: 2px solid #fff;
     background: transparent;
     color: #fff;
     cursor: pointer;
     position: relative;
     overflow: hidden;
 }
+button:hover{
+    color: #000;
+}
 
 span{
-    background: #e60707;
+    background: #fff;
     height: 100%;
     width: 0;
     border-radius: 25px;
