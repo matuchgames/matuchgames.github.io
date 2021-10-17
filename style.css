@@ -120,7 +120,7 @@ button:hover span{
     font-weight: bold;
 }
 .footer img{
-    filter: grayscale(5);
+    filter: grayscale(100%);
     transition: 0.5s ease filter;
     width: 50px;
     height: 50px;
