@@ -1,4 +1,4 @@
-/* Copyright © 2021 matuchgames.com. All rights reserved */
+/* Copyright © 2021 matuchgames.com All rights reserved. */
 *{
     margin: 0;
     padding: 0;
@@ -75,7 +75,7 @@ button{
     padding: 15px 0;
     text-align: center;
     margin: 20px 10px;
-    border-radius: 25px;
+    border-radius: 0px;
     font-weight: bold;
     border: 2px solid #fff;
     background: transparent;
@@ -92,7 +92,7 @@ span{
     background: #fff;
     height: 100%;
     width: 0;
-    border-radius: 25px;
+    border-radius: 0px;
     position: absolute;
     left: 0;
     bottom: 0;
