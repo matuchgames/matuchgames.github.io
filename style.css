@@ -149,7 +149,8 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: rgb(150, 150, 150);
+	background-color: rgb(255, 255, 255);
+	color: rgb(0,0,0);
 	font-weight: bold;
 }
 #header .hamburger {
