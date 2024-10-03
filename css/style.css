@@ -372,3 +372,26 @@ section{
         width: 0px;
     }
 }
+@media (max-width: 600px) {
+    :root {
+        --big-font: 2rem; /* Zmniejszenie dużych nagłówków */
+        --h2-font: 1.5rem; /* Zmniejszenie h2 */
+        --h3-font: 1.2rem; /* Zmniejszenie h3 */
+    }
+
+    .home-text-support h1 {
+        font-size: 2.5rem; /* Zmniejszenie nagłówków w sekcji wsparcia */
+    }
+
+    .home-text-support h3 {
+        font-size: 1rem;
+    }
+
+    .home-support img {
+        width: 80px; /* Zmniejszenie obrazu wsparcia */
+    }
+
+    section {
+        padding: 40px 5%; /* Mniejsze odstępy */
+    }
+}
