@@ -96,6 +96,9 @@ section{
     text-align: center;
     margin-bottom: 2rem;
 }
+.home-text-support {
+    max-width: 80%;
+}
 
 .home-logo img {
     max-width: 100%;
