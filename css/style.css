@@ -176,6 +176,8 @@ section{
 
 .games .games-btn img {
     width: 100%;
+    border: none;
+    outline: none;
 }
 /* games page end */
 
