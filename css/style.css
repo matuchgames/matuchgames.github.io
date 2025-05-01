@@ -174,12 +174,10 @@ section{
     margin: 50px; /* Możesz dostosować tę wartość, aby zmieniać odstępy */
     flex: 0 0 calc(33.33% - 40px); /* 3 kolumny na większych ekranach, odstępy wliczone */
     display: flex;
-    box-shadow: 0 0 1px #d4ecff;
     transition: .5s;
 }
 .games .games-btn:hover{
     transform: translateY(-20px) scaleX(1.05) scaleY(1.05);
-    box-shadow: 1 1 8px #d4ecff;
     transition: .5s;
 }
 
