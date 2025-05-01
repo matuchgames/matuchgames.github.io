@@ -161,6 +161,15 @@ section{
     background: var(--bg-color);
 }
 
+.games a {
+   outline: none;
+   border: none;
+}
+
+.games a:focus {
+   outline: none;
+}
+
 .games .games-btn {
     margin: 50px; /* Możesz dostosować tę wartość, aby zmieniać odstępy */
     flex: 0 0 calc(33.33% - 40px); /* 3 kolumny na większych ekranach, odstępy wliczone */
