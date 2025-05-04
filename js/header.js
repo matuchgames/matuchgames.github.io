@@ -1,3 +1,4 @@
+location.reload(true); 
 document.addEventListener("DOMContentLoaded", function () {
     const headerHTML = `
         <header>
