@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", function () {
             <div class="bx bx-menu" id="menu-icon"></div>
 
             <ul class="navbar">
-                <li><a href="games" data-after="Games">Games</a></li>
-                <li><a href="news" data-after="News">News</a></li>
-                <li><a href="support" data-after="Support">Support</a></li>
+                <li><a href="/games" data-after="Games">Games</a></li>
+                <li><a href="/news" data-after="News">News</a></li>
+                <li><a href="/support" data-after="Support">Support</a></li>
             </ul>
         </header>
     `;
