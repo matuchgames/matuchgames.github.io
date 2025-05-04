@@ -4,7 +4,7 @@ const headerContainer = document.getElementById('header');
 
         // Dodaj event listener do menu po załadowaniu nagłówka
         let menu = document.querySelector("#menu-icon");
-        let navbar = document.querySelector(".navbar");
+        let navbar = document.querySelector(".header .navbar");
 
         menu.addEventListener("click", function () {
             navbar.classList.toggle("active");
