@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const headerHTML = `
         <header>
-            <a href="./" class="logo"><img src="/img/logo/mg_240x40.png"></a>
+            <a href="/./" class="logo"><img src="/img/logo/mg_240x40.png"></a>
             <div class="bx bx-menu" id="menu-icon"></div>
 
             <ul class="navbar">
