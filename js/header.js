@@ -1,4 +1,3 @@
-location.reload(true); 
 document.addEventListener("DOMContentLoaded", function () {
     const headerHTML = `
         <header>
@@ -9,7 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 <li><a href="/games" data-after="Games">Games</a></li>
                 <li><a href="/news" data-after="News">News</a></li>
                 <li><a href="/support" data-after="Support">Support</a></li>
-                <li><a href="/support" data-after="Support">Test</a></li>
             </ul>
         </header>
     `;
