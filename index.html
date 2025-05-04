@@ -19,7 +19,11 @@
     <body>
 
         <div id="header"></div>
-        <script src="/js/header.js"></script>
+        <script>
+            const script = document.createElement("script");
+            script.src = "/js/header.js?v=" + Date.now(); // każdy URL inny → nowy plik
+            document.head.appendChild(script);
+        </script>
 
         <!------home start------>
         <section class="home" id="home">
