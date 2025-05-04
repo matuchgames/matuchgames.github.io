@@ -3,7 +3,7 @@ const headerContainer = document.getElementById('header');
         headerContainer.innerHTML = headerHTML;
 
         // Dodaj event listener do menu po załadowaniu nagłówka
-        let menu = document.querySelector("#menu-icon");
+        let menu = document.querySelector(".header #menu-icon");
         let navbar = document.querySelector(".header .navbar");
 
         menu.addEventListener("click", function () {
